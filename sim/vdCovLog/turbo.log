@@ -1,0 +1,2 @@
+Command Line: /home/cad/eda/SYNOPSYS/VERDI_2023-03-SP1/verdi/U-2023.03-SP1/platform/LINUXAMD64/bin/vdCov -covdir merged_dir.vdb
+uname(Linux mavenserver-RH3 4.18.0-513.11.1.el8_9.x86_64 #1 SMP Thu Dec 7 03:06:13 EST 2023 x86_64)
